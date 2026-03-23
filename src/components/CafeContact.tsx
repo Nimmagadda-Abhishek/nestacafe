@@ -63,14 +63,14 @@ const CafeContact = () => {
               <div className="flex items-start gap-3">
                 <MapPin size={16} className="text-cafe-terracotta mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="font-sans text-sm text-foreground">Plot no 6, Sy No-809, Korremulat</p>
+                  <p className="font-sans text-sm text-foreground">Plot no 6, Sy No-809, Korremula</p>
                   <p className="font-sans text-sm text-muted-foreground">Pocharam</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <Clock size={16} className="text-cafe-terracotta mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="font-sans text-sm text-foreground">Every day, 7am – 4pm</p>
+                  <p className="font-sans text-sm text-foreground">Every day, 11am – 11pm</p>
                   <p className="font-sans text-sm text-muted-foreground">Closed on major holidays</p>
                 </div>
               </div>

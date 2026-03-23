@@ -36,8 +36,7 @@ const CafeAbout = () => {
             <div className="hand-divider mb-8" />
             <div className="space-y-4 text-base font-sans text-muted-foreground leading-relaxed max-w-lg">
               <p>
-                We opened Ember & Oak in a former print shop on SE Division, with a second-hand 
-                La Marzocca, a bag of single-origin beans from a farmer we'd met in Guatemala, 
+                We opened Nesta Cafe, a bag of single-origin beans from a farmer we'd met in Pocharam, 
                 and zero business plan.
               </p>
               <p>
