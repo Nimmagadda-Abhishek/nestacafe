@@ -5,6 +5,7 @@ const CafeFooter = () => {
         <p className="font-serif text-lg text-foreground">Nesta Cafe</p>
         <p className="font-sans text-xs text-cafe-warm-gray">
           © 2026 Nesta Cafe
+i
         </p>
       </div>
     </footer>
