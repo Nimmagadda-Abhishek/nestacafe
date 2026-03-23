@@ -1,8 +1,8 @@
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
-import img1 from "@/assets/WhatsApp Image 2026-03-23 at 7.56.39 PM(1).jpeg";
-import img2 from "@/assets/cafe-food-2.jpg";
-import img3 from "@/assets/cafe-food-3.jpg";
-import img4 from "@/assets/IMG_20260322_212043.jpg.jpeg";
+import img1 from "@/assets/IMG_9697.jpg";
+import img2 from "@/assets/IMG_9612.jpg";
+import img3 from "@/assets/IMG_9630.jpg";
+import img4 from "@/assets/IMG_9618.jpg";
 
 const images = [
   { src: img1, alt: "Freshly baked croissant with coffee", tall: true },
